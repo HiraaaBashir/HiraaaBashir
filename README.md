@@ -41,4 +41,4 @@ An object-oriented airline system for my OOP course, built with Fariha Nasir.
 - **OOP concepts applied:** [e.g. inheritance, polymorphism, encapsulation]
 - **My contribution:** [what you built]
 
-[View project](https://github.com/farihalodhi/AirlineManagementSystem)
+[View project](https://github.com/HiraaaBashir/Airline_booking_system)
