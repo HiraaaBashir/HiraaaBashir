@@ -14,7 +14,7 @@ I like projects where design decisions matter: how to split code into layers, ho
 A Python expense manager with budget and transaction tracking, built with separate data, service, and interface layers and covered by automated tests.
 
 - **Course:** Software Construction
-- **Focus:** keeping data, business logic, and UI independent, and evolving the codebase through [migration / refactoring / rewriting, whichever you've done]
+- **Focus:** keeping data, business logic, and UI independent, and evolving the codebase through refactoring and migration
 - **Stack:** Python, [test framework, storage]
 
 [Explore ExpenseMate](https://github.com/HiraaaBashir/ExpenseMate)
@@ -31,7 +31,7 @@ A 5th-semester AI course project in Python, built with [Fariha Lodhi](https://gi
 A C++ implementation of 2048 for my Data Structures course, built with Fariha Nasir.
 
 - **Data structures used:** [e.g. 2D arrays, stacks for undo]
-- **My contribution:** [what you built]
+
 
 [View project](https://github.com/farihalodhi/2048_game)
 
@@ -39,6 +39,6 @@ A C++ implementation of 2048 for my Data Structures course, built with Fariha Na
 An object-oriented airline system for my OOP course, built with Fariha Nasir.
 
 - **OOP concepts applied:** [e.g. inheritance, polymorphism, encapsulation]
-- **My contribution:** [what you built]
+
 
 [View project](https://github.com/HiraaaBashir/Airline_booking_system)
